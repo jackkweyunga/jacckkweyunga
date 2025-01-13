@@ -1,7 +1,7 @@
 
 Hello!
 
-Welcome to my profile. I'm currently a practitioner and continuos learner in better software design, DevSecOps, Cloud computing and Cyber security.
+Welcome to my profile. I'm currently a practitioner and continuous learner in better software design, DevSecOps, Cloud computing and Cyber security.
 
 Lets connect:
 - LinkedIn: [jackkweyunga](https://www.linkedin.com/in/jackkweyunga/)
